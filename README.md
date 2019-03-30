@@ -6,6 +6,11 @@ In Columbia, for every field, what has gender representation looked like in the 
 
 In Columbia, for every field, what has race/ethnicity representation looked like in the last twenty years?
 
+## Setup
+
+1. Run `pipenv shell` to enter the virtual environment subshell
+2. Run `jupyter notebook` to start your local notebook server
+
 ## General steps
 
 1. Data collection: Export csv with data you want from [interactive](https://ncsesdata.nsf.gov/ids/gss)
