@@ -1,6 +1,6 @@
 # GSS Diversity
 
-## Guiding quetions
+## Guiding questions
 
 In Columbia, for every field, what has gender representation looked like in the last twenty years?
 
