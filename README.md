@@ -1,10 +1,16 @@
-# GSS Diversity
+**How diverse is the science and engineering graduate student population?**
 
-## Guiding quetions
+## TODOs
 
-In Columbia, for every field, what has gender representation looked like in the last twenty years?
+Is sex diversity in a certain field skewed by a certain race/ethnicity, citizenship, or another demographic characteristic?
 
-In Columbia, for every field, what has race/ethnicity representation looked like in the last twenty years?
+Narrow down.
+* Find which detailed fields influence/skew which broad fields the most
+* Find people in these specific areas
+
+Compare.
+* Compare sex and race/ethnicity diversity to peer institutions
+* Narrow down which detailed fields influence which broad fields the most
 
 ## Setup
 
