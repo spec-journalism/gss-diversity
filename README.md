@@ -11,4 +11,4 @@
 
 ## Disclaimers
 
-The master data files ([detailed](https://github.com/spec-journalism/gss-diversity/blob/master/data/Detailed_Sex_RaceEthnicity.csv) and [broad](https://github.com/spec-journalism/gss-diversity/blob/master/data/Broad_Sex_RaceEthnicity.csv)) were modified from their original states to make them easier to read with pandas. 
+The master data files ([detailed](https://github.com/spec-journalism/gss-diversity/blob/master/data/Detailed_Sex_RaceEthnicity.csv) and [broad](https://github.com/spec-journalism/gss-diversity/blob/master/data/Broad_Sex_RaceEthnicity.csv) were [modified slightly](https://github.com/spec-journalism/gss-diversity/commit/def1af012f8ccc68757b2fe3deff74f5eb08c9d1)) from their original states to make them easier to read with pandas. 
