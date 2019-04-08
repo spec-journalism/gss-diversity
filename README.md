@@ -4,6 +4,8 @@
 
 - [ ] Analyze visualizations for postdocs, compile findings
 - [ ] Compile findings for graduate students
+- [ ] Document data files
+- [ ] Document notebooks
 
 ## Setup
 
