@@ -1,4 +1,4 @@
-**How diverse is the science and engineering graduate student population?**
+**How diverse are the graduate student and postdoctorate populations in science and engineering?**
 
 ## TODOs
 
@@ -10,4 +10,4 @@
 ## Setup
 
 1. Run `pipenv shell` to enter the virtual environment subshell
-2. Run `jupyter notebook` to start a local notebook server
+2. Run `jupyter notebook` to start the local notebook server
