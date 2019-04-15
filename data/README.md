@@ -1,4 +1,4 @@
-**Disclaimer: The master data files ([detailed](https://github.com/spec-journalism/gss-diversity/blob/master/data/Detailed_Sex_RaceEthnicity.csv) and [broad](https://github.com/spec-journalism/gss-diversity/blob/master/data/Broad_Sex_RaceEthnicity.csv)) were [modified slightly](https://github.com/spec-journalism/gss-diversity/commit/def1af012f8ccc68757b2fe3deff74f5eb08c9d1) from their original states to make them easier to read with pandas. The `/notebooks/pickler.ipynb` will not work if this change is not made to newly downloaded data files.**
+**Disclaimer: The master data files (any csv file directly in this directory) were [modified slightly](https://github.com/spec-journalism/gss-diversity/commit/def1af012f8ccc68757b2fe3deff74f5eb08c9d1) to make them easier to read with pandas. `/notebooks/pickler.ipynb` will not work if this change is not made to newly downloaded data files.**
 
 
 # Data files
