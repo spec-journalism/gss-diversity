@@ -16,7 +16,7 @@
 
 2 Converging: mathematics and applied mathematics, industrial and manufacturing engineering
 
-5 Diverging: physics, civil engineering, electrical engineering, "engineering science, mechanics, and physics", mechanical engineering
+5 Diverging: physics, civil engineering, electrical engineering, "engineering science, mechanics, and physics", mechanical engineering **(ALL ENGINEERING, except industrial and manufacturing engineering)*
 
 ## Connected scatter plots
 
