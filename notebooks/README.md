@@ -20,4 +20,6 @@
 
 ## Connected scatter plots
 
-To convey uneven recruitment, I prefer using connected scatter plots over percentage line charts. If in one year the University gained 100 male and 20 female graduate students, it's possible that the sex ratio does not change. However, in a connected scatter plot, the line wouldl clearly stray further from the parity line.
+To convey uneven recruitment, I prefer using connected scatter plots over percentage line charts. If in one year the University gained 100 male and 20 female graduate students, it's possible that the sex ratio does not change. However, in a connected scatter plot, the line would clearly stray further from the parity line.
+
+Also check out this [538 connected scatter plot](https://fivethirtyeight.com/features/psg-and-real-madrid-werent-supposed-to-have-this-many-problems/).
